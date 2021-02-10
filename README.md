@@ -1,2 +1,5 @@
-# API-testing-with-Postma-and-NUnit
-Postman queries integrated with C# and NUnit
+Please add your usrname and password in fields if you want to test the code.  
+
+
+
+SCREENSHOTS: 
